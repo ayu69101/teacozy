@@ -1,0 +1,33 @@
+/*centering*/
+/*
+<!-- centering element horizontally -->
+<div class="box-wrapper">
+  <div class="box1">
+    box1
+  </div>
+
+  <div class="box2">
+    box2
+  </div>
+</div>
+*/
+
+/*.box-wrapper {
+  background: yellow;
+}
+.box1 {
+  background: red;
+  width: 400px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.box2 {
+  background: blue;
+  width: 50%;
+  height: 200px;
+
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}*/
